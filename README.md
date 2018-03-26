@@ -16,3 +16,9 @@ C|change camera view
 B|Boost
 Space|Jump
 Arrow keys|Movement
+
+## Screenshots:
+#### Boat View:
+![Boat view](https://github.com/ramkishore07s/boat-simulation/blob/master/screenshots/boat%20view.png?raw=true "3rd Person view")
+#### First person View:
+![FP view](https://github.com/ramkishore07s/boat-simulation/blob/master/screenshots/fp%20view.png?raw=true "first person view")
