@@ -19,6 +19,11 @@ Arrow keys|Movement
 
 ## Screenshots:
 #### Boat View:
-![Boat view](https://github.com/ramkishore07s/boat-simulation/blob/master/screenshots/boat%20view.png?raw=true "3rd Person view")
+![Boat view](https://github.com/ramkishore07s/boat-simulation/blob/master/screenshots/boat%20view.png?raw=true)
 #### First person View:
-![FP view](https://github.com/ramkishore07s/boat-simulation/blob/master/screenshots/fp%20view.png?raw=true "first person view")
+![FP view](https://github.com/ramkishore07s/boat-simulation/blob/master/screenshots/fp%20view.png?raw=true)
+
+### License
+The MIT License https://meghprkh.mit-license.org/
+
+Copyright &copy; 2018 Megh Parikh <meghprkh@gmail.com>
