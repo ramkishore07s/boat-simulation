@@ -1,6 +1,12 @@
 # boat-simulation
 
 ---
+## Screenshots:
+#### Boat View:
+![Boat view](https://github.com/ramkishore07s/boat-simulation/blob/master/screenshots/boat%20view.png?raw=true)
+#### First person View:
+![FP view](https://github.com/ramkishore07s/boat-simulation/blob/master/screenshots/fp%20view.png?raw=true)
+
 ## Compiling & Executing
 1. mkdir build 2. cd build
 3. cmake ..
@@ -16,12 +22,6 @@ C|change camera view
 B|Boost
 Space|Jump
 Arrow keys|Movement
-
-## Screenshots:
-#### Boat View:
-![Boat view](https://github.com/ramkishore07s/boat-simulation/blob/master/screenshots/boat%20view.png?raw=true)
-#### First person View:
-![FP view](https://github.com/ramkishore07s/boat-simulation/blob/master/screenshots/fp%20view.png?raw=true)
 
 ### License
 The MIT License https://meghprkh.mit-license.org/
